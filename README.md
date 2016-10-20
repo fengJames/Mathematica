@@ -1,5 +1,5 @@
 ## Mathematica Projects
-I created these two projects in the spring of 2016 for my multivariable class.
+I created these two projects for a multivariable calculus course.
 
 Link to Wolfram Demonstration: http://demonstrations.wolfram.com/KineticsOfCFCCatalyzedOzoneDestruction/
 
